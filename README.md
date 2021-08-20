@@ -1,4 +1,4 @@
--📘 Estudando: back end/front end
+-📘 Estudando: javascript
 <div>
     <img align="right" alt="a" src='https://media3.giphy.com/media/1wh06XT53tPGw/giphy.gif'
          <div>
