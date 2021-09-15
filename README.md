@@ -2,7 +2,7 @@
 <div>
          <div>
 <div>
-    <img align="left" alt="a" src=https://psiquiatriamg.com.br/wp-content/uploads/2021/03/tenor.gif
+    <img align="right" alt="a" src=https://psiquiatriamg.com.br/wp-content/uploads/2021/03/tenor.gif
          <div>
     
     
@@ -15,10 +15,9 @@
  <a href="https://www.linkedin.com/in/rafael-masselli-740921214/" target="_blank"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
      
 <div>
-    <img height="20em" src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-    <img height="20em" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img height="20em" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
  ![Snake animation](https://github.com/rafaelmasselli/rafaelmasselli/blob/output/github-contribution-grid-snake.svg)
                                                   
