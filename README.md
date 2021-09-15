@@ -1,4 +1,4 @@
--📘 Estudando: javascript    
+-📘 Estudando: javaScript    
 <div>
          <img align="right" alt="a" src="https://media4.giphy.com/media/oyUrSRL4HxBE2Qk87W/200w.gif?cid=ecf05e47u5te20q524wdxtz15ham389rh8svedg7wt9yrg14&rid=200w.gif&ct=g"
          <div>    
