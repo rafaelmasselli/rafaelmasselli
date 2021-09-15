@@ -3,7 +3,7 @@
     <img align="left" alt="a" src='https://media3.giphy.com/media/1wh06XT53tPGw/giphy.gif'
          <div>
 <div>
-    <img align="right" alt="a" src=https://psiquiatriamg.com.br/wp-content/uploads/2021/03/tenor.gif
+    <img align="left" alt="a" src=https://psiquiatriamg.com.br/wp-content/uploads/2021/03/tenor.gif
          <div>
     
     
