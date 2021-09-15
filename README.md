@@ -9,17 +9,20 @@
     </div>
     
 <div>
-  <img height="30em" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-    <img height= "30em"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img height= "30em"src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img height="20em" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+    <img height= "20em"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img height= "20em"src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     
 <div>
-   <img heigth="30em" src ="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+   <img heigth="20em" src ="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
     <a href="https://instagram.com/massellirafael" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
     
+   
+    
+    
     
 <div>
-<a href = "mailto:rafaelmasselli0@gmail.com"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+<a href="https://www.linkedin.com/in/rafael-masselli-740921214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  ![Snake animation](https://github.com/rafaelmasselli/rafaelmasselli/blob/output/github-contribution-grid-snake.svg)
                                                   
