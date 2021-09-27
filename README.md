@@ -1,11 +1,11 @@
 -📘 Estudando: javaScript 
 
 <div>
-  <img align="right" alt="a" src="https://media4.giphy.com/media/oyUrSRL4HxBE2Qk87W/200w.gif?cid=ecf05e47u5te20q524wdxtz15ham389rh8svedg7wt9yrg14&rid=200w.gif&ct=g"
+  <img align="right" alt="a" src="http://25.media.tumblr.com/ac0fcf64393cd4b76061bab2bb9f75d3/tumblr_mhzad3fbHw1s5w0qho1_500.gif"
     <div>    
 <div>
   <a href="https://github.com/rafaelmasselli">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmasselli&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmasselli&layout=compact&langs_count=7&theme=synthwave"/>
     </div>
 <div>
     <a href="https://instagram.com/massellirafael" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
