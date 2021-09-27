@@ -5,7 +5,7 @@
     <div>    
 <div>
   <a href="https://github.com/rafaelmasselli">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmasselli&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="139em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmasselli&layout=compact&langs_count=7&theme=synthwave"/>
     </div>
 <div>
     <a href="https://instagram.com/massellirafael" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
