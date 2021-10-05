@@ -1,7 +1,7 @@
 -📘 Estudando: javaScript 
 
 <div>
-  <img align="right" alt="a" src="https://i.pinimg.com/originals/3e/20/2a/3e202af0f61d27eea2ff19c3774b944d.gif"
+  <img align="right" height="250em" alt = "Espada do link" src="https://i.pinimg.com/originals/3e/20/2a/3e202af0f61d27eea2ff19c3774b944d.gif"
     <div>    
 <div>
   <a href="https://github.com/rafaelmasselli">
