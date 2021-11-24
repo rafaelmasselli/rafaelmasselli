@@ -19,8 +19,8 @@
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://camo.githubusercontent.com/bec2c92468d081617cb3145a8f3d8103e268bca400f6169c3a68dc66e05c971e/68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67">
    <img align="center" alt="postgre" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-   <img align="center" alt="Mongodb" height="40" width="40" src="https://o.remove.bg/downloads/411c9b2e-47ac-4154-96c1-48fecdd05130/leaf-360x360-removebg-preview.png">
-   <img align="center" alt="code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+   <img align="center" alt="Mongodb" height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRADVjEriF_-ey-XHRn5DNR2TpLCYYVCuAUgQ&usqp=CAU">
+   <img align="center" alt="code" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 
  ![Snake animation](https://github.com/rafaelmasselli/rafaelmasselli/blob/output/github-contribution-grid-snake.svg)
                                                   
