@@ -1,11 +1,8 @@
 -📘 Desenvolvedor: Full Stack
 
 <div>
-  <img align="right" height="250em" alt = "Espada do link" src="https://i.pinimg.com/originals/3e/20/2a/3e202af0f61d27eea2ff19c3774b944d.gif"
-    <div>    
-<div>
   <a href="https://github.com/rafaelmasselli">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmasselli&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmasselli&layout=compact&langs_count=7&theme=synthwave"/>
     </div>
 <div>
     <a href="https://instagram.com/massellirafael" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
