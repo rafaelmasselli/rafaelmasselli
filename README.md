@@ -5,7 +5,7 @@
   <a href="https://github.com/rafaelmasselli">
   <img aling align="right" height="180em"src="https://github-readme-stats.vercel.app/api?username=rafaelmasselli&theme=dracula&count_private=true"/>
     
-  [![ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmasselli&theme=dracula&count_private=true")](https://github.com/anuraghazra/github-readme-stats)
+  [![ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmasselli&theme=dracula&count_private=true")](https://github.com/rafaelmasselli)
 <div>
 
   
