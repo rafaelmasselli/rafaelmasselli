@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá! Eu sou o Rafael Masselli 🖐️ <br> Dev web: Full stack</h1>
+<h1 align="center">Olá! Eu sou o Rafael Masselli 🖐️ <br> Dev Full stack</h1>
 
 
 <div align="center">
