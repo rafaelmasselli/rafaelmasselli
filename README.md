@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/rafaelmasselli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelmasselli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmasselli&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rafaelmasselli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmasselli&layout=compact&langs_count=7&theme=dark"/>
   
 </div>
 
@@ -12,7 +12,6 @@
   <a href="https://www.linkedin.com/in/rafael-masselli-740921214/">
    <img height="30em"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
    <img height="30em"  width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-   <img height="30em"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
    <img  height="30em"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
    <img height="30em"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
    <img height="30em"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
