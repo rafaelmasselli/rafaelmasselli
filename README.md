@@ -35,7 +35,6 @@
       <a href="https://www.linkedin.com/in/rafael-masselli-740921214/" target="_blank"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
 
-#
 
 <div align="center">
 <img height="200em" src="https://octodex.github.com/images/murakamicat.png"/>
