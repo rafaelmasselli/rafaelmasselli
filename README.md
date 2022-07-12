@@ -1,4 +1,4 @@
-# Olá! Eu sou o Rafael Masselli 
+# Olá! Eu sou o Rafael Masselli 👋
 
 <div align="center">
 <a href="https://github.com/rafaelmasselli">
@@ -7,7 +7,7 @@
 </a>
 </div>
 
-##
+## 
 
 <div>
   <a href="https://www.linkedin.com/in/rafael-masselli-740921214/">
@@ -27,7 +27,7 @@
   </a>
 </div>
 
-#
+## 
 
 <div>
   <a href="https://github.com/rafaelmasselli">
@@ -35,9 +35,12 @@
       <a href="https://www.linkedin.com/in/rafael-masselli-740921214/" target="_blank"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
 
+#
+
 <div align="center">
 <img height="200em" src="https://octodex.github.com/images/murakamicat.png"/>
 </div>
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rafael-masselli-740921214/">
