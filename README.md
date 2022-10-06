@@ -9,7 +9,7 @@
 
 ## 
 
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/rafael-masselli-740921214/">
    <img height="30em"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript"/>
    <img height="30em"  width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"/>
