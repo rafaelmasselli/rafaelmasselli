@@ -36,10 +36,6 @@
 </div>
 
 
-<div align="center">
-<img height="200em" src="https://octodex.github.com/images/murakamicat.png"/>
-</div>
-
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rafael-masselli-740921214/">
