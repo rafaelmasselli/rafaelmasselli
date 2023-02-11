@@ -1,35 +1,12 @@
-# Olá! Eu sou o Rafael Masselli 👋
-
 <div align="center">
-  <a href="https://github.com/rafaelmasselli">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelmasselli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmasselli&layout=compact&langs_count=7&theme=dark"/>
-  </a>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=38F7AC&center=true&vCenter=true&width=435&lines=Hello+world.)](https://git.io/typing-svg)
+
 </div>
 
-<hr>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/rafael-masselli-740921214/">
-   <img height="30em"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript"/>
-   <img height="30em"  width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"/>
-   <img  height="30em"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
-    <img height="30em" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue" />
-   <img height="30em"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node"/>
-   <img height="30em"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="Nest" />
-   <img height="30em"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML"/>
-   <img height="30em" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  alt="CSS" />
-   <img height="30rem"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass"/>
-   <img height="30rem"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" />
-   <img height="30rem" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes"/>
-   <img height="30em" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postgresql"/>
-   <img height="30em" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"/>
-   <img height="30em" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma"/> 
-   <img height="30rem" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux"  />
-  </a>
-</div>
-
-<hr>
+<h2> Olá, sou Rafael masselli <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media4.giphy.com/media/l2Sq5uCb4GpCFHGQ8/200w.webp?cid=ecf05e472llcwrl3jgi6ldgby6cws38i80l7dpgfji1f9ssc&rid=200w.webp&ct=g" width="230">
+<p><em>Cursando Bacharelado em Engenharia de software na <a href="https://www.cruzeirodosul.edu.br/">Cruzeiro do sul</a></br>Sou um Desenvolvedor Full-stack</em></p>
 
 <div>
   <a href="https://github.com/rafaelmasselli">
@@ -37,7 +14,21 @@
  <a href="https://www.linkedin.com/in/rafael-masselli-740921214/" target="_blank"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
 
+```javascript
+const rafael = {
+  code: ["JavaScript", "TypeScript", "HTML", "CSS", "SASS"],
+  tools: ["React", "Vue", "Node", "Nest", "Styled-Components", "Docker", "Figma"],
+  database: ["PostgreSQL", "MongoDB", "SQL", "NOSQL"],
+  operatingSystem: ["Windows", "Linux"],
+};
+```
 
+<div align="center">
+  <a href="https://github.com/rafaelmasselli">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelmasselli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmasselli&layout=compact&langs_count=7&theme=dark"/>
+  </a>
+</div>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/rafael-masselli-740921214/">
