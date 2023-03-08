@@ -2,6 +2,8 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=38F7AC&center=true&vCenter=true&width=435&lines=Hello,+World!)](https://git.io/typing-svg)
 
+  <h1>Hello</h1>
+  
 </div>
 
 <h2> Olá, sou o Rafael masselli <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
