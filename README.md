@@ -15,7 +15,7 @@
 
 ```javascript
 const rafael = {
-  code: ["JavaScript", "TypeScript", "Java", "HTML", "CSS", "SASS"],
+  code: ["JavaScript", "TypeScript", "HTML", "CSS", "SASS"],
   tools: ["React", "Node", "Nest", "Docker", "kubernetes","Figma"],
   database: ["PostgreSQL", "MongoDB", "SQL", "NOSQL"],
   operatingSystem: ["Windows", "Linux"],
