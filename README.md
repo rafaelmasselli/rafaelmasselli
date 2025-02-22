@@ -5,7 +5,7 @@
 </div>
 
 <h2> Olá, sou o Rafael masselli <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media4.giphy.com/media/l2Sq5uCb4GpCFHGQ8/200w.webp?cid=ecf05e472llcwrl3jgi6ldgby6cws38i80l7dpgfji1f9ssc&rid=200w.webp&ct=g" width="230">
+
 
 <div>
   <a href = "mailto:rafaelmasselli0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -23,6 +23,7 @@ const rafael = {
 
 <div align="left">
   <a href="https://github.com/rafaelmasselli">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelmasselli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmasselli&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
