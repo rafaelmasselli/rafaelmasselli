@@ -6,7 +6,6 @@
 
 <h2> Olá, sou o Rafael masselli <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media4.giphy.com/media/l2Sq5uCb4GpCFHGQ8/200w.webp?cid=ecf05e472llcwrl3jgi6ldgby6cws38i80l7dpgfji1f9ssc&rid=200w.webp&ct=g" width="230">
-<p><em>Cursando Bacharelado em Engenharia de software na <a href="https://www.cruzeirodosul.edu.br/">Cruzeiro do sul</a></br>Sou um Desenvolvedor Full-stack</em></p>
 
 <div>
   <a href = "mailto:rafaelmasselli0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
