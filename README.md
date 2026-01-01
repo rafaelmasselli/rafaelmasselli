@@ -14,14 +14,20 @@
 
 ```javascript
 const rafael = {
-  code: ["JavaScript", "TypeScript", "HTML", "CSS", "SASS"],
-  tools: ["React", "Node", "Nest", "Docker", "kubernetes","Figma"],
-  database: ["PostgreSQL", "MongoDB", "SQL", "NOSQL"],
-  operatingSystem: ["Windows", "Linux"],
+  languages: ["JavaScript", "TypeScript", "Python"],
+  frontend: ["HTML", "CSS", "Sass", "Styled Components", "React", "Next"],
+  backend: ["Node.js", "NestJS"],
+  databases: {
+    relational: ["PostgreSQL"],
+    nonRelational: ["MongoDB"]
+  },
+  tools: ["Docker", "Kubernetes", "Figma"],
+  operatingSystems: ["Linux", "Windows"],
+  focus: ["Backend", "AI Integration"]
 };
 ```
 
-<div align="left">
+<!-- <div align="left">
   <a href="https://github.com/rafaelmasselli">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelmasselli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmasselli&layout=compact&langs_count=7&theme=dark"/>
@@ -31,6 +37,8 @@ const rafael = {
 <div align="left">
     <a href="https://www.linkedin.com/in/rafael-masselli-740921214/">
     <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
-</div>
+</div> 
 
 ![Snake animation](https://github.com/rafaelmasselli/rafaelmasselli/blob/output/github-contribution-grid-snake.svg)
+
+-->
